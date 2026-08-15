@@ -1,0 +1,34 @@
+[
+  {
+    "content": "Phase 2: Get design guidelines from design_agent",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 2: Source curated stock imagery (kulfi/matka/festival) via vision expert",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 2: Backend — forms endpoints, MongoDB persistence, SMTP w/ placeholder env, locations + flavours APIs",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 2: Frontend — all 6 pages (Home, Our Kulfi, Franchise, Locate Us, About, Contact) with maximalist design system",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 2: Motion — scroll reveals, count-up stats, flavour carousel, parallax hero, sticky condensing nav",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 2: WhatsApp CTA, SEO meta + JSON-LD, lazy-loaded images",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 2: All user stories covered in development and testing",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 2: End to End Testing using Testing Agent",
+    "status": "completed"
+  }
+]
