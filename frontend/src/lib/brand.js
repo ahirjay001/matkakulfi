@@ -17,6 +17,10 @@ export const PHONE_DISPLAY = "+91 99093 99882";
 export const PHONE_TEL = "tel:+919909399882";
 export const EMAIL_PLACEHOLDER = "hello@desimastaani.com"; // placeholder - update with real email
 
+export const INSTAGRAM_URL = "https://www.instagram.com/desimastaanikulfi_official/";
+export const FACEBOOK_URL = "https://www.facebook.com/p/Desi-Mastani-61564024326804/";
+export const LOGO_SRC = "/desi-mastaani-logo.webp";
+
 export const WHATSAPP_URL =
   "https://wa.me/919909399882?text=" +
   encodeURIComponent("Namaste! Mujhe Desi Mastaani ke baare mein jaanna hai.");
